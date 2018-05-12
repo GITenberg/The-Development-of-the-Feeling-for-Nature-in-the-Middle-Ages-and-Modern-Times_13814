@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5232'
     url: http://www.gutenberg.org/2009/agents/5232
 description: Translated from the original German.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13814#The-Development-of-the-Feeling-for-Nature-in-the-Middle-Ages-and-Modern-Times
 gutenberg_issued: '2004-10-20'
 gutenberg_type: Text
 identifiers:
